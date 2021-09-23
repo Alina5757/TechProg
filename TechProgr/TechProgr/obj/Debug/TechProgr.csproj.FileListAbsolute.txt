@@ -1,0 +1,20 @@
+C:\Users\user\Documents\TechProgr\TechProgr\bin\Debug\TechProgr.exe.config
+C:\Users\user\Documents\TechProgr\TechProgr\bin\Debug\TechProgr.exe
+C:\Users\user\Documents\TechProgr\TechProgr\bin\Debug\TechProgr.pdb
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.csprojAssemblyReference.cache
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.FormBus.resources
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.Properties.Resources.resources
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.csproj.GenerateResource.cache
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.exe
+C:\Users\user\Documents\TechProgr\TechProgr\obj\Debug\TechProgr.pdb
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\bin\Debug\TechProgr.exe.config
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\bin\Debug\TechProgr.exe
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\bin\Debug\TechProgr.pdb
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.csprojAssemblyReference.cache
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.FormBus.resources
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.Properties.Resources.resources
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.csproj.GenerateResource.cache
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.exe
+C:\Users\Алина\Desktop\Типо\2 курс\Технологии программирования\TechProgr\TechProgr\obj\Debug\TechProgr.pdb
